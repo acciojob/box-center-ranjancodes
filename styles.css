@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+div {
+	background-color: ADD8E6;
+	padding: 10px;
+    border: 2px black; 
+}
